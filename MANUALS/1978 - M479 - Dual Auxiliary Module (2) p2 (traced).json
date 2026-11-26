@@ -1,0 +1,55 @@
+{
+ "drawing": "Modules/SUMMING/M479/MANUALS/1978 - M479 - Dual Auxiliary Module (2).pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/eeeaf586afa9bc58-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1471, 2000],
+  "mm": [317.6, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [10.6, 3.7, 307.6, 421.9],
+ "outlines": {
+  "line": {"rings": 115, "straight": {"n": 2105, "mm": 4573.4}, "curved": {"n": 366, "mm": 559.4}},
+  "text": {"rings": 77, "straight": {"n": 586, "mm": 766.4}, "curved": {"n": 128, "mm": 214.0}},
+  "tb": {"rings": 25, "straight": {"n": 286, "mm": 390.3}, "curved": {"n": 63, "mm": 97.2}}
+ },
+ "circles": [{"c": [186.5, 237.0], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 21,
+  "lines": [
+   {"mm": [31.7, 402.4, 118.3, 418.8], "text": "(vvas] 041"},
+   {"mm": [109.2, 412.8, 212.2, 420.5], "text": "WARD -BECK SYS"},
+   {"mm": [254.8, 412.8, 266.9, 420.5], "text": "LT"},
+   {"mm": [139.5, 406.5, 151.8, 411.1], "text": "£3tS"},
+   {"mm": [224.8, 406.8, 275.7, 410.8], "text": "ONT.-::l MIH QX.,"},
+   {"mm": [236.2, 400.9, 275.9, 405.5], "text": ".n814386rao"},
+   {"mm": [135.2, 244.6, 185.7, 255.6], "text": "M479"},
+   {"mm": [119.2, 232.7, 208.6, 238.7], "text": "UA AU XIL IARY MODULE"},
+   {"mm": [271.0, 54.4, 290.8, 63.0], "text": "ps"},
+   {"mm": [260.2, 43.6, 280.9, 54.4], "text": "BS"},
+   {"mm": [239.0, 22.2, 256.5, 29.0], "text": "tp"},
+   {"mm": [232.1, 15.5, 252.0, 22.3], "text": "ht"}
+  ]
+ },
+ "title_block": {"mm": [102.8, 404.3, 192.2, 429.1], "from": "title-block words (training set)", "text": ["WARD -BECK SYS", "£3tS"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 318 × 432 mm, 1471 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 11–308 mm across, 4–422 mm up",
+  "- **Outlines:** line 115 rings, 2,105 straight (4,573 mm) / 366 curved (559 mm); text 77 rings, 586 straight (766 mm) / 128 curved (214 mm); tb 25 rings, 286 straight (390 mm) / 63 curved (97.2 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.9 @ (186.5, 237.0)",
+  "- **Words (OCR):** 21 in 12 lines: (vvas] 041 · WARD -BECK SYS · LT · £3tS · ONT.-::l MIH QX., · .n814386rao · M479 · UA AU XIL IARY MODULE · ps · BS · tp · ht",
+  "- **Title block:** (103, 404)–(192, 429) mm: WARD -BECK SYS · £3tS"
+ ]
+}

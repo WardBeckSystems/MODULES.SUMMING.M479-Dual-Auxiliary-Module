@@ -1,0 +1,90 @@
+{
+ "drawing": "Modules/SUMMING/M479/MANUALS/1978 - M479 - Dual Auxiliary Module.pdf",
+ "page": 12,
+ "version": 1,
+ "trace": "_traces/ff9e190a2f72a003-p12.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1464, 2000],
+  "mm": [316.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "12", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [11.4, 5.7, 308.1, 427.5],
+ "outlines": {
+  "line": {"rings": 28, "straight": {"n": 999, "mm": 3506.8}, "curved": {"n": 101, "mm": 161.5}},
+  "text": {"rings": 320, "straight": {"n": 2675, "mm": 3133.1}, "curved": {"n": 707, "mm": 1108.7}},
+  "tb": {"rings": 13, "straight": {"n": 54, "mm": 53.7}, "curved": {"n": 13, "mm": 16.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 39,
+  "lines": [
+   {"mm": [11.2, 420.6, 134.9, 429.0], "text": "WAAD-BECK SYSTems LTD;"},
+   {"mm": [136.2, 375.7, 177.9, 383.6], "text": "PARTS LiST"},
+   {"mm": [122.4, 360.6, 212.7, 369.2], "text": "DUAL AuxIIARY MODULE"},
+   {"mm": [102.6, 362.3, 119.8, 368.8], "text": "M479"},
+   {"mm": [27.0, 332.9, 45.3, 339.9], "text": "PART"},
+   {"mm": [56.6, 333.6, 103.4, 340.5], "text": "DESCRIPTION"},
+   {"mm": [172.5, 334.2, 187.0, 341.2], "text": "MFG"},
+   {"mm": [223.2, 334.2, 258.9, 341.2], "text": "MFG PART"},
+   {"mm": [261.7, 334.2, 289.3, 341.2], "text": "NUMBER"},
+   {"mm": [27.0, 319.5, 36.7, 326.0], "text": "73"},
+   {"mm": [57.2, 319.1, 95.4, 326.1], "text": "Integrated"},
+   {"mm": [98.2, 319.5, 124.1, 326.5], "text": "circuit"},
+   {"mm": [172.5, 320.0, 202.1, 326.9], "text": "National"},
+   {"mm": [222.8, 320.6, 253.0, 327.1], "text": "LMBOIAN"},
+   {"mm": [27.0, 312.6, 36.7, 319.1], "text": "24"},
+   {"mm": [27.4, 305.5, 36.5, 312.0], "text": "25"},
+   {"mm": [27.4, 291.5, 36.5, 297.9], "text": "26"},
+   {"mm": [27.4, 284.6, 36.5, 291.5], "text": "77"},
+   {"mm": [27.4, 277.4, 36.5, 283.9], "text": "28"},
+   {"mm": [29.1, 31.3, 43.6, 37.8], "text": "WBS"},
+   {"mm": [46.2, 30.0, 119.0, 38.2], "text": "recommends thc use"},
+   {"mm": [131.9, 30.7, 230.8, 38.6], "text": "replacement parts made by"},
+   {"mm": [234.0, 32.0, 245.9, 38.4], "text": "The"},
+   {"mm": [248.3, 31.3, 281.5, 39.5], "text": "specified"},
+   {"mm": [29.6, 23.7, 94.8, 30.7], "text": "manufacturers for"},
+   {"mm": [97.6, 23.3, 203.6, 31.5], "text": "continued optimum equipment"},
+   {"mm": [206.4, 23.7, 252.6, 31.9], "text": "performance."},
+   {"mm": [154.8, 4.3, 166.7, 11.3], "text": "3-5"}
+  ]
+ },
+ "title_block": {
+  "mm": [5.0, 22.7, 119.6, 431.8],
+  "from": "title-block words (training set)",
+  "text": [
+   "WAAD-BECK SYSTems LTD;",
+   "M479",
+   "PART",
+   "DESCRIPTION",
+   "73",
+   "Integrated",
+   "circuit",
+   "24",
+   "25",
+   "26",
+   "77",
+   "28",
+   "WBS",
+   "recommends thc use",
+   "manufacturers for"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 316 × 432 mm, 1464 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 11–308 mm across, 6–428 mm up",
+  "- **Outlines:** line 28 rings, 999 straight (3,507 mm) / 101 curved (162 mm); text 320 rings, 2,675 straight (3,133 mm) / 707 curved (1,109 mm); tb 13 rings, 54 straight (53.7 mm) / 13 curved (16.0 mm)",
+  "- **Words (OCR):** 39 in 28 lines: WAAD-BECK SYSTems LTD; · PARTS LiST · DUAL AuxIIARY MODULE · M479 · PART · DESCRIPTION · MFG · MFG PART · NUMBER · 73 · Integrated · circuit",
+  "- **Title block:** (5, 23)–(120, 432) mm: WAAD-BECK SYSTems LTD; · M479 · PART · DESCRIPTION · 73 · Integrated · circuit · 24 · 25 · 26 · 77 · 28 · WBS · recommends thc use · manufacturers for"
+ ]
+}

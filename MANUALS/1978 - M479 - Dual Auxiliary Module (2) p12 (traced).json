@@ -1,0 +1,77 @@
+{
+ "drawing": "Modules/SUMMING/M479/MANUALS/1978 - M479 - Dual Auxiliary Module (2).pdf",
+ "page": 12,
+ "version": 1,
+ "trace": "_traces/eeeaf586afa9bc58-p12.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1464, 2000],
+  "mm": [316.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "12", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [11.4, 5.7, 308.1, 427.5],
+ "outlines": {
+  "line": {"rings": 131, "straight": {"n": 1937, "mm": 4626.2}, "curved": {"n": 340, "mm": 530.5}},
+  "text": {"rings": 216, "straight": {"n": 1614, "mm": 1765.9}, "curved": {"n": 406, "mm": 629.0}},
+  "tb": {"rings": 50, "straight": {"n": 388, "mm": 460.5}, "curved": {"n": 113, "mm": 178.1}}
+ },
+ "circles": [{"c": [222.9, 27.4], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 52,
+  "lines": [
+   {"mm": [14.5, 421.7, 115.1, 427.4], "text": "WAR D-BECK SYSTEMS"},
+   {"mm": [139.9, 375.9, 159.8, 381.2], "text": "PARTS"},
+   {"mm": [172.3, 375.9, 179.6, 381.2], "text": "ST"},
+   {"mm": [105.6, 361.6, 208.8, 366.9], "text": "M47 DUAL AUXILIARY MODUL"},
+   {"mm": [29.8, 334.2, 45.6, 339.5], "text": "PART"},
+   {"mm": [59.8, 334.2, 104.5, 339.5], "text": "DESCR IPTI ON"},
+   {"mm": [226.0, 332.5, 290.4, 338.2], "text": "MFG PART NUMBER"},
+   {"mm": [30.0, 319.7, 37.1, 325.5], "text": "ZJ"},
+   {"mm": [60.7, 319.5, 124.6, 325.5], "text": "Integrated ll'Cu lt"},
+   {"mm": [174.9, 319.5, 196.3, 325.0], "text": "1<I.,l ion"},
+   {"mm": [230.1, 318.9, 253.7, 324.2], "text": "M301 AN"},
+   {"mm": [30.0, 305.9, 37.6, 312.9], "text": "zs"},
+   {"mm": [30.0, 291.7, 37.4, 299.1], "text": "ze"},
+   {"mm": [30.0, 284.6, 38.0, 293.7], "text": "zr"},
+   {"mm": [30.0, 277.0, 38.6, 285.6], "text": "ze"},
+   {"mm": [269.7, 54.2, 289.3, 62.8], "text": "ps"},
+   {"mm": [258.9, 43.4, 279.6, 54.2], "text": "BS"},
+   {"mm": [28.3, 31.5, 41.7, 36.8], "text": "WBS"},
+   {"mm": [45.8, 31.3, 96.3, 36.8], "text": "recommends Ih"},
+   {"mm": [109.5, 31.3, 116.4, 36.8], "text": "se"},
+   {"mm": [145.7, 31.3, 160.6, 36.8], "text": "acem"},
+   {"mm": [177.0, 31.3, 194.5, 36.8], "text": "parts"},
+   {"mm": [208.6, 31.3, 228.4, 36.8], "text": "de by"},
+   {"mm": [233.6, 31.3, 278.7, 36.8], "text": "the specified"},
+   {"mm": [28.7, 24.0, 37.1, 30.7], "text": "mill"},
+   {"mm": [57.4, 24.0, 200.8, 30.7], "text": "tur~s for con tinued op ...um Quipment"},
+   {"mm": [217.2, 24.2, 249.6, 29.7], "text": "fo ...ance."},
+   {"mm": [237.7, 22.2, 255.2, 29.0], "text": "tp"},
+   {"mm": [231.0, 15.5, 250.7, 22.3], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [22.0, 22.9, 121.4, 431.8],
+  "from": "title-block words (training set)",
+  "text": ["WAR D-BECK SYSTEMS", "PART", "DESCR IPTI ON", "ZJ", "Integrated ll'Cu lt", "zs", "ze", "zr", "ze", "WBS", "recommends Ih", "se", "mill"]
+ },
+ "dots": [{"c": [223.9, 34.6], "r": 0.9, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 316 × 432 mm, 1464 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 11–308 mm across, 6–428 mm up",
+  "- **Outlines:** line 131 rings, 1,937 straight (4,626 mm) / 340 curved (530 mm); text 216 rings, 1,614 straight (1,766 mm) / 406 curved (629 mm); tb 50 rings, 388 straight (460 mm) / 113 curved (178 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.8 @ (222.9, 27.4)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 52 in 29 lines: WAR D-BECK SYSTEMS · PARTS · ST · M47 DUAL AUXILIARY MODUL · PART · DESCR IPTI ON · MFG PART NUMBER · ZJ · Integrated ll'Cu lt · 1<I.,l ion · M301 AN · zs",
+  "- **Title block:** (22, 23)–(121, 432) mm: WAR D-BECK SYSTEMS · PART · DESCR IPTI ON · ZJ · Integrated ll'Cu lt · zs · ze · zr · ze · WBS · recommends Ih · se · mill"
+ ]
+}

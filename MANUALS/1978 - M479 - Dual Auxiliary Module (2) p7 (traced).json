@@ -1,0 +1,66 @@
+{
+ "drawing": "Modules/SUMMING/M479/MANUALS/1978 - M479 - Dual Auxiliary Module (2).pdf",
+ "page": 7,
+ "version": 1,
+ "trace": "_traces/eeeaf586afa9bc58-p7.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1452, 2000],
+  "mm": [313.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "7", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [11.9, 4.2, 303.7, 424.7],
+ "outlines": {
+  "line": {"rings": 14, "straight": {"n": 870, "mm": 3309.0}, "curved": {"n": 108, "mm": 171.9}},
+  "text": {"rings": 578, "straight": {"n": 4533, "mm": 5252.1}, "curved": {"n": 1273, "mm": 1991.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 116,
+  "lines": [
+   {"mm": [13.8, 418.4, 132.8, 424.1], "text": "WARD-BE CK SYS TE MS LTD."},
+   {"mm": [118.5, 368.8, 138.2, 375.7], "text": "CIRCU"},
+   {"mm": [152.0, 368.8, 191.9, 375.7], "text": "DESCRIP TIO"},
+   {"mm": [102.3, 354.9, 212.4, 361.9], "text": "M479 DUA AUXIL ARY MODULE"},
+   {"mm": [27.6, 327.5, 39.3, 334.5], "text": "SW2"},
+   {"mm": [61.1, 327.5, 174.4, 334.5], "text": "he output swi tc for cha nnel"},
+   {"mm": [197.3, 327.5, 282.6, 334.5], "text": "Z7 ZS and Q5 through"},
+   {"mm": [27.6, 320.6, 141.8, 327.6], "text": "QS com pri se th outp ut ampli"},
+   {"mm": [27.6, 306.8, 71.5, 313.8], "text": "The ch ann el"},
+   {"mm": [85.9, 306.8, 163.0, 313.8], "text": "MAIN outp ut appears"},
+   {"mm": [180.9, 306.8, 254.5, 313.8], "text": "pins 15/ 16 and he"},
+   {"mm": [27.6, 299.9, 146.8, 306.8], "text": "MON ITOR outpu at pi ns 17/18."},
+   {"mm": [28.1, 286.3, 39.5, 293.2], "text": "For"},
+   {"mm": [57.0, 286.3, 105.6, 293.2], "text": "d8m ope ra tio"},
+   {"mm": [119.0, 286.3, 188.3, 293.2], "text": "J2 ma be emoved"},
+   {"mm": [28.5, 272.0, 123.1, 279.0], "text": "Power Suppl Decoup 11 nq"},
+   {"mm": [28.1, 258.6, 279.6, 265.6], "text": "Po wer supply deco up li ng 1s pro vided by eR9 CRIO, R71 hr ough"},
+   {"mm": [28.5, 251.3, 117.9, 258.3], "text": "R74 and C23 thro ugh C2"},
+   {"mm": [28.5, 237.9, 245.5, 244.9], "text": "R73 and R74 deco uple the su ppl vol age and reduce 1t"},
+   {"mm": [263.4, 237.9, 275.3, 244.9], "text": "tl8"},
+   {"mm": [28.5, 231.0, 47.7, 238.0], "text": "volts"},
+   {"mm": [65.6, 231.0, 140.1, 238.0], "text": "opera te ZI hro ugh"},
+   {"mm": [278.3, 64.6, 297.5, 73.0], "text": "ca"},
+   {"mm": [256.7, 43.2, 277.2, 54.0], "text": "BS"},
+   {"mm": [235.8, 22.0, 253.0, 28.7], "text": "tp"},
+   {"mm": [229.1, 15.3, 248.7, 22.0], "text": "ht"},
+   {"mm": [154.2, 2.6, 165.4, 9.3], "text": "2-2"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 314 × 432 mm, 1452 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 12–304 mm across, 4–425 mm up",
+  "- **Outlines:** line 14 rings, 870 straight (3,309 mm) / 108 curved (172 mm); text 578 rings, 4,533 straight (5,252 mm) / 1,273 curved (1,991 mm)",
+  "- **Words (OCR):** 116 in 27 lines: WARD-BE CK SYS TE MS LTD. · CIRCU · DESCRIP TIO · M479 DUA AUXIL ARY MODULE · SW2 · he output swi tc for cha nnel · Z7 ZS and Q5 through · QS com pri se th outp ut ampli · The ch ann el · MAIN outp ut appears · pins 15/ 16 and he · MON ITOR outpu at pi ns 17/18."
+ ]
+}

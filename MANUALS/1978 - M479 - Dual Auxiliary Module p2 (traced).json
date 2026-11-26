@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/SUMMING/M479/MANUALS/1978 - M479 - Dual Auxiliary Module.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/ff9e190a2f72a003-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1471, 2000],
+  "mm": [317.6, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [10.6, 3.7, 307.6, 421.9],
+ "outlines": {
+  "line": {"rings": 5, "straight": {"n": 591, "mm": 2552.4}, "curved": {"n": 68, "mm": 105.7}},
+  "text": {"rings": 181, "straight": {"n": 2136, "mm": 2730.2}, "curved": {"n": 465, "mm": 732.5}},
+  "tb": {"rings": 2, "straight": {"n": 106, "mm": 304.1}, "curved": {"n": 6, "mm": 11.3}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 9,
+  "lines": [
+   {"mm": [107.5, 412.8, 275.5, 423.6], "text": "WARD-BECK SYSTEMS LTD;"},
+   {"mm": [36.1, 403.7, 275.1, 418.8], "text": "WBS B41 PAOCAESS AVENUE SCAABONOUGH, ONTARIO Mihexa"},
+   {"mm": [107.1, 401.4, 161.5, 406.6], "text": "TELEX: 065-25399"},
+   {"mm": [197.1, 401.1, 275.1, 407.9], "text": "TELEPHONE: 418/438-A550"},
+   {"mm": [134.3, 245.7, 186.1, 258.6], "text": "Ma79"},
+   {"mm": [112.1, 232.7, 209.2, 240.9], "text": "DUAL AUXILIARY MODULE"},
+   {"mm": [65.8, 2.6, 246.6, 9.1], "text": "DESIGN ANO MANUFACTURE Of PROFESSIONAL AUDIO CQUIPMENT"}
+  ]
+ },
+ "title_block": {
+  "mm": [29.8, 395.1, 254.6, 431.8],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSTEMS LTD;", "WBS B41 PAOCAESS AVENUE SCAABONOUGH, ONTARIO Mihexa", "TELEX: 065-25399", "TELEPHONE: 418/438-A550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 318 × 432 mm, 1471 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 11–308 mm across, 4–422 mm up",
+  "- **Outlines:** line 5 rings, 591 straight (2,552 mm) / 68 curved (106 mm); text 181 rings, 2,136 straight (2,730 mm) / 465 curved (732 mm); tb 2 rings, 106 straight (304 mm) / 6 curved (11.3 mm)",
+  "- **Words (OCR):** 9 in 7 lines: WARD-BECK SYSTEMS LTD; · WBS B41 PAOCAESS AVENUE SCAABONOUGH, ONTARIO Mihexa · TELEX: 065-25399 · TELEPHONE: 418/438-A550 · Ma79 · DUAL AUXILIARY MODULE · DESIGN ANO MANUFACTURE Of PROFESSIONAL AUDIO CQUIPMENT",
+  "- **Title block:** (30, 395)–(255, 432) mm: WARD-BECK SYSTEMS LTD; · WBS B41 PAOCAESS AVENUE SCAABONOUGH, ONTARIO Mihexa · TELEX: 065-25399 · TELEPHONE: 418/438-A550"
+ ]
+}

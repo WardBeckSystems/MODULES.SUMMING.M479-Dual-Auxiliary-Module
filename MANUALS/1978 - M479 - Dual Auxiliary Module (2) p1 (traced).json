@@ -1,0 +1,54 @@
+{
+ "drawing": "Modules/SUMMING/M479/MANUALS/1978 - M479 - Dual Auxiliary Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/eeeaf586afa9bc58-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1470, 2000],
+  "mm": [317.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "17"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [76.2, 5.6, 283.5, 431.8],
+ "outlines": {"line": {"rings": 75, "straight": {"n": 2470, "mm": 9720.5}, "curved": {"n": 194, "mm": 381.7}}},
+ "circles": [],
+ "boxes": [
+  {"mm": [219.1, 413.4, 236.2, 416.3], "w": 17.1, "h": 2.8, "from": "ring"},
+  {"mm": [220.0, 335.7, 236.8, 338.5], "w": 16.8, "h": 2.8, "from": "ring"},
+  {"mm": [222.6, 24.0, 239.6, 26.8], "w": 17.1, "h": 2.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 14,
+  "lines": [
+   {"mm": [167.8, 398.6, 282.4, 417.7], "text": "(VVE3S)"},
+   {"mm": [167.8, 359.7, 282.4, 378.6], "text": "(VVI:3S]"},
+   {"mm": [179.8, 321.0, 269.7, 340.0], "text": "VVE3S"},
+   {"mm": [179.8, 282.2, 269.9, 301.4], "text": "VVE3S"},
+   {"mm": [180.3, 242.9, 269.7, 261.8], "text": "VVE3S"},
+   {"mm": [180.3, 204.2, 270.1, 223.2], "text": "VVE3S"},
+   {"mm": [180.3, 165.4, 270.1, 184.3], "text": "VVE3S"},
+   {"mm": [180.7, 126.3, 270.5, 145.5], "text": "VVE3S"},
+   {"mm": [180.7, 48.6, 290.8, 67.5], "text": "VVE3S ps"},
+   {"mm": [260.2, 43.4, 280.9, 54.2], "text": "BS"},
+   {"mm": [180.7, 9.5, 270.5, 28.5], "text": "VVE3S"},
+   {"mm": [239.0, 22.2, 256.5, 29.0], "text": "tp"},
+   {"mm": [232.1, 15.3, 252.0, 22.0], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 317 × 432 mm, 1470 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 76–284 mm across, 6–432 mm up",
+  "- **Outlines:** line 75 rings, 2,470 straight (9,720 mm) / 194 curved (382 mm)",
+  "- **Closed boxes:** 3",
+  "- **Words (OCR):** 14 in 13 lines: (VVE3S) · (VVI:3S] · VVE3S · VVE3S · VVE3S · VVE3S · VVE3S · VVE3S · VVE3S ps · BS · VVE3S · tp"
+ ]
+}
