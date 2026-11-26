@@ -11,6 +11,20 @@ Wiki page: [M479](../../../../PAGES/M479.md)
 - **Size:** 442,497 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 287 mm, 2000 × 1330 px traced (0.216 mm/px)
+- **Ink extent:** 3–432 mm across, 0–280 mm up
+- **Outlines:** line 1,121 rings, 10,647 straight (17,293 mm) / 2,565 curved (3,389 mm); text 788 rings, 4,350 straight (4,007 mm) / 1,647 curved (2,153 mm)
+- **Centre lines:** 11,258 paths (261 closed); straight 12,223 mm, curved 785 mm; horizontal 3,945 mm, vertical 2,862 mm, diagonal 5,416 mm
+- **Circles and arcs:** 27 circles, 135 arcs; largest r 4.1 @ (302.7, 209.3), r 4.0 @ (303.7, 117.9), r 4.0 @ (303.7, 61.3), r 4.0 @ (303.2, 179.5)
+- **Closed boxes:** 9
+- **Dots (junctions):** 4
+- **Words (OCR):** 152 in 139 lines: 243519 · CR3 340 · SuMMING · A4| · OLTPUT · INPUT · 4*7 · R42 · +8-B~ Nominal · R37 · 00 · R3S
+- **Wiring (first pass):** 141 connected wire groups from 1,035 runs, 3 dotted junctions; labelled ends: 338 mm → WBS; 146 mm → 2435L3; 144 mm → DS ?; 134 mm → 82 p, scl6, P 760; 131 mm → WBS
+
+Every curve, box, word and wire group: [1978 - M479 - P15 - Schematic (traced).json](../SCHEMATICS/1978%20-%20M479%20-%20P15%20-%20Schematic%20%28traced%29.json) (the CAD file: `1978 - M479 - P15 - Schematic (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 8 words corrected)

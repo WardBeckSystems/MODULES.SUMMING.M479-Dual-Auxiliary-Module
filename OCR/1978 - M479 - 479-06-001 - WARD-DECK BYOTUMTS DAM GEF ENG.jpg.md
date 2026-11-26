@@ -22,7 +22,7 @@ Wiki page: [M479](../../../../PAGES/M479.md)
 - **Words (OCR):** 136 in 131 lines: R76 e29 · R78 92 · R4 22* · R3 22* · CRis 22k · R7 · Rib · Sk · 82 ~cio_ · Sk · Ris _2k · Riogek
 - **Title block:** (50, 0)–(362, 258) mm: R2z · 5 k · 2241 22 · 23 · 22p1 · WBS · C27 · C28 · 24 · 10-015 · Lm3oi · Lm3oi · M30i · Lmzoi · {lie · ~C6 · Dsz · FLvI7 · R2 z04 · ~R4B Jek · ~R4S · ek2 · 2n3645 · 203545 · 08 · 03 · R43 %5 · Rs7 $7
 
-Every curve, box, word and wire group: [1978 - M479 - 479-06-001 - WARD-DECK BYOTUMTS DAM GEF ENG (traced).json](../SCHEMATICS/1978%20-%20M479%20-%20479-06-001%20-%20WARD-DECK%20BYOTUMTS%20DAM%20GEF%20ENG%20(traced).json) (the CAD file: `1978 - M479 - 479-06-001 - WARD-DECK BYOTUMTS DAM GEF ENG (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M479 - 479-06-001 - WARD-DECK BYOTUMTS DAM GEF ENG (traced).json](../SCHEMATICS/1978%20-%20M479%20-%20479-06-001%20-%20WARD-DECK%20BYOTUMTS%20DAM%20GEF%20ENG%20%28traced%29.json) (the CAD file: `1978 - M479 - 479-06-001 - WARD-DECK BYOTUMTS DAM GEF ENG (traced).dxf`).
 
 ## Full text
 

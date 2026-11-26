@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (359, 18)–(432, 35) mm: Alvrior · WBS · WARD-BeCK SYSTEMS · GEB · 4470
 - **Wiring (first pass):** 131 connected wire groups from 981 runs, 2 dotted junctions; labelled ends: 185 mm → ceora=, See, WBS, WARD-BeCK SYSTEMS; 134 mm → 82 P, 22k, 620; 130 mm → DSI, 0S2; 107 mm → cio, Isel6, 8z8; 94 mm → 3569, Czo
 
-Every curve, box, word and wire group: [19xx - M479 - DOC - 479-02-001 - DUAL AUXILIARY MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M479%20-%20DOC%20-%20479-02-001%20-%20DUAL%20AUXILIARY%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - M479 - DOC - 479-02-001 - DUAL AUXILIARY MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M479 - DOC - 479-02-001 - DUAL AUXILIARY MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M479%20-%20DOC%20-%20479-02-001%20-%20DUAL%20AUXILIARY%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - M479 - DOC - 479-02-001 - DUAL AUXILIARY MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

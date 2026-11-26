@@ -23,7 +23,7 @@ Wiki page: [M479](../../../../PAGES/M479.md)
 - **Title block:** (270, 2)–(432, 78) mm: lo/77 ADDED AmP · InFORMATION · (IsSUE DATE · REVISION · APP · WBS WARO-BECK sysTEMB · M479 · ENG_ RKB · CKD: Rpl · DUAL · AUXILIARY MODULE · FUNCTIONAL DIAGRAM · APP · SCALE · ISSUE · 479-01-001
 - **Wiring (first pass):** 48 connected wire groups from 91 runs; labelled ends: 134 mm → SUM; 116 mm → SUM; 101 mm → lo/77, (IsSUE DATE; 84 mm → BST; 83 mm → BST
 
-Every curve, box, word and wire group: [1978 - M479 - 479-01-001 - DUAL AUXILIARY MODULE FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1978%20-%20M479%20-%20479-01-001%20-%20DUAL%20AUXILIARY%20MODULE%20FUNCTIONAL%20DIAGRAM%20(traced).json) (the CAD file: `1978 - M479 - 479-01-001 - DUAL AUXILIARY MODULE FUNCTIONAL DIAGRAM (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M479 - 479-01-001 - DUAL AUXILIARY MODULE FUNCTIONAL DIAGRAM (traced).json](../SCHEMATICS/1978%20-%20M479%20-%20479-01-001%20-%20DUAL%20AUXILIARY%20MODULE%20FUNCTIONAL%20DIAGRAM%20%28traced%29.json) (the CAD file: `1978 - M479 - 479-01-001 - DUAL AUXILIARY MODULE FUNCTIONAL DIAGRAM (traced).dxf`).
 
 ## Full text
 

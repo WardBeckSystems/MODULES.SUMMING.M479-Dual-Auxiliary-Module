@@ -26,7 +26,7 @@ Wiki page: [M479](../../../../PAGES/M479.md)
 - **Closed boxes:** 3
 - **Words (OCR):** 14 in 13 lines: (VVE3S) · (VVI:3S] · VVE3S · VVE3S · VVE3S · VVE3S · VVE3S · VVE3S · VVE3S ps · BS · VVE3S · tp
 
-Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p1 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20(2)%20p1%20(traced).json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p1 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -37,7 +37,7 @@ Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) 
 - **Words (OCR):** 21 in 12 lines: (vvas] 041 · WARD -BECK SYS · LT · £3tS · ONT.-::l MIH QX., · .n814386rao · M479 · UA AU XIL IARY MODULE · ps · BS · tp · ht
 - **Title block:** (103, 404)–(192, 429) mm: WARD -BECK SYS · £3tS
 
-Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p2 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20(2)%20p2%20(traced).json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p2 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -49,7 +49,7 @@ Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) 
 - **Words (OCR):** 73 in 30 lines: CK SYSTEM LTD. · TA8L OF CO NTENTS · M479 DUAL AUXILIA RY MODULE · SECTION · PAG · Wa rranty · Technical Data · Ci rc ui De sc · 2-2 · Parts · 3-1 to 3-5 · Dr awIn
 - **Wiring (first pass):** 11 connected wire groups from 131 runs; labelled ends: 113 mm → MODULE, M479; 72 mm → NTENTS, MODULE, TA8L, M479; 45 mm → AUG, HAN, BS, SUE; 30 mm → SECTION; 27 mm → Fron, awIn, H4, Dr
 
-Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p3 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20(2)%20p3%20(traced).json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p3 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -60,7 +60,7 @@ Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) 
 - **Words (OCR):** 327 in 166 lines: [\NBS] 94' D6!'. ....-.>38liI · WARD-BECK · LTD · AVI:"",""," · ONT"'-"lICl · TE LEPHCNC · ""Il '''3e-6!!i~ · RAN · "rd-a~k · <tffi" Ltd" · li re · Wll rll nt
 - **Title block:** (22, 222)–(188, 425) mm: [\NBS] 94' D6!'. ....-.>38liI · WARD-BECK · AVI:"",""," · RAN · "rd-a~k · <tffi" Ltd" · Al · pr-o uc ts · defectl · me ter-tels li nd ",nrkmdns hll'> or II · date · shipme nt. · Ward _Beck Sys l",m.s 
 
-Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p4 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20(2)%20p4%20(traced).json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p4 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -72,7 +72,7 @@ Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) 
 - **Words (OCR):** 214 in 84 lines: WAR D-BECK SYSTEMS LTD · TEC HN ICAL DATA · M4 79 DUAL AUXIL ARY HODUL · Ga In · 18 dB · aa. · Freque ncy Re sponse: · 2S dB rOIl · 30 · Hz · 20 · kHz
 - **Title block:** (30, 411)–(121, 432) mm: WAR D-BECK SYSTEMS LTD
 
-Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p5 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20(2)%20p5%20(traced).json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p5 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -83,7 +83,7 @@ Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) 
 - **Words (OCR):** 265 in 125 lines: WAAD-BECK Systems · LTD; · CIRCUII DESCRIPIION · M479 · DUAL_AUXILIARY_MODULE · The · M479 15 · designed to · receive · the auxiliary output feeds · originating from the WBS · M470 and M473
 - **Title block:** (7, 314)–(134, 432) mm: WAAD-BECK Systems · LTD; · M479 · The · M479 15 · designed to · originating from the WBS · modules combine · them and · ned output
 
-Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p6 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20(2)%20p6%20(traced).json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p6 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -92,7 +92,7 @@ Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) 
 - **Outlines:** line 14 rings, 870 straight (3,309 mm) / 108 curved (172 mm); text 578 rings, 4,533 straight (5,252 mm) / 1,273 curved (1,991 mm)
 - **Words (OCR):** 116 in 27 lines: WARD-BE CK SYS TE MS LTD. · CIRCU · DESCRIP TIO · M479 DUA AUXIL ARY MODULE · SW2 · he output swi tc for cha nnel · Z7 ZS and Q5 through · QS com pri se th outp ut ampli · The ch ann el · MAIN outp ut appears · pins 15/ 16 and he · MON ITOR outpu at pi ns 17/18.
 
-Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p7 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20(2)%20p7%20(traced).json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p7 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -103,7 +103,7 @@ Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) 
 - **Words (OCR):** 175 in 107 lines: WAt=lO·BECK SYSTEMS LTO · PARTS IST · M479 DUAL AUX ILI ARY MOD ULE · PART · DESCRIP TION · MFG · PAR NU MBER · CIlPo c;ltor · '50 · uF/6 · Kemel · 90E IS7M006AS
 - **Title block:** (7, 410)–(119, 432) mm: WAt=lO·BECK SYSTEMS LTO
 
-Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p8 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20(2)%20p8%20(traced).json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p8 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -113,7 +113,7 @@ Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) 
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 1.7 @ (64.3, 74.1)
 - **Words (OCR):** 104 in 70 lines: WARO -BECK YSTEMS LTO · PAR TS LI ST · M479 DUAL AUX · ARY MODULE · PART · OEseR 1PT 1ON · PART NUM BER · CR, · Diod · Fairc;, lld · 1N414 · CR5
 
-Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p9 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20(2)%20p9%20(traced).json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p9 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -123,7 +123,7 @@ Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) 
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 2.3 @ (189.3, 362.7)
 - **Words (OCR):** 73 in 50 lines: WAI=lD ~SECK SYSTEMS LTD · PARTS IST · M479 DUAL AUX ILI ARY MODULE · PART · DESCR PTI ON · PART NUMBER · R.sis tOl"" 1!4W · Phili ps · T.-l · POI · ltlC~" · IOV SK
 
-Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p10 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20(2)%20p10%20(traced).json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p10 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -133,7 +133,7 @@ Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) 
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 1.8 @ (77.0, 322.1)
 - **Words (OCR):** 64 in 44 lines: WA~D-BECI< YSTEMS LTD · PAR TS LIS · M479 DUAL AUXILIARY MODULE · PAR · DESCRI PTI ON · FG · MF PAR NUMBER · sl or- 1!4W · SK · Ph lips · 33 · '56
 
-Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p11 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20(2)%20p11%20(traced).json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p11 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -145,7 +145,7 @@ Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) 
 - **Words (OCR):** 52 in 29 lines: WAR D-BECK SYSTEMS · PARTS · ST · M47 DUAL AUXILIARY MODUL · PART · DESCR IPTI ON · MFG PART NUMBER · ZJ · Integrated ll'Cu lt · 1<I.,l ion · M301 AN · zs
 - **Title block:** (22, 23)–(121, 432) mm: WAR D-BECK SYSTEMS · PART · DESCR IPTI ON · ZJ · Integrated ll'Cu lt · zs · ze · zr · ze · WBS · recommends Ih · se · mill
 
-Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p12 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20(2)%20p12%20(traced).json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p12 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20%282%29%20p12%20%28traced%29.json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -157,7 +157,7 @@ Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) 
 - **Dots (junctions):** 1
 - **Words (OCR):** 67 in 52 lines: MO' · AUXILI AU · I.oel con"ol Ul · All_ · 0<1",., · bO CM".... · O<I .pu... · AUX LIU · Slol2 · I0Il.." dep'. · cn · 0-0
 
-Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p13 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20(2)%20p13%20(traced).json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p13 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20%282%29%20p13%20%28traced%29.json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p13 (traced).dxf`).
 
 ### Page 14
 
@@ -171,7 +171,7 @@ Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) 
 - **Title block:** (270, 2)–(432, 76) mm: 1./77 ADOED · AM · INf ORM AT IO · ISSUE DATE · REVISKlN ca · APP. · [was) WARD-BECK SYSTEMS · ps · BS · DRN~ · M479 · ENG RKB · DUAL AUXILIARY MODULE · CKD. · tp · FUNCTIONAL DIAGRAM · ht · APP. · H.
 - **Wiring (first pass):** 47 connected wire groups from 89 runs; labelled ends: 109 mm → 1./77, DATE, ADOED; 84 mm → ST; 51 mm → ON; 16 mm → ON
 
-Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p14 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20(2)%20p14%20(traced).json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p14 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p14 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20%282%29%20p14%20%28traced%29.json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p14 (traced).dxf`).
 
 ### Page 15
 
@@ -183,7 +183,7 @@ Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) 
 - **Dots (junctions):** 4
 - **Words (OCR):** 221 in 195 lines: R3. · CR · R40 · CI · R5 · 33 · 20 · Ol · 2.0/ · 75 · II · UX LI
 
-Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p15 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20(2)%20p15%20(traced).json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p15 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p15 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20%282%29%20p15%20%28traced%29.json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p15 (traced).dxf`).
 
 ### Page 16
 
@@ -195,7 +195,7 @@ Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) 
 - **Dots (junctions):** 7
 - **Words (OCR):** 94 in 75 lines: r;':l · 22~ · C28 · UA301 · z_J · Rl JOk. · OSo'Z.. · Fl..vll" · -R~a JS! · 10 · R2 11: · -RI2l2!<
 
-Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p16 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20(2)%20p16%20(traced).json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p16 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p16 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20%282%29%20p16%20%28traced%29.json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p16 (traced).dxf`).
 
 ### Page 17
 
@@ -206,7 +206,7 @@ Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) 
 - **Closed boxes:** 44; named: 10; II; tz; 15; 18; ps
 - **Words (OCR):** 45 in 38 lines: III · SUMMI NG · III · NPUT · III · SUKi'1 NG · INPUT · SHI ELD · III · EX TERNA · II · NPUr
 
-Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p17 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20(2)%20p17%20(traced).json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p17 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M479 - Dual Auxiliary Module (2) p17 (traced).json](../MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20%282%29%20p17%20%28traced%29.json) (the CAD file: `1978 - M479 - Dual Auxiliary Module (2) p17 (traced).dxf`).
 
 ## Full text
 

@@ -20,7 +20,7 @@ Wiki page: [M479](../../../../PAGES/M479.md)
 - **Words (OCR):** 80 in 45 lines: WBS · M479 · AUXILIARY Teve contro R22; · ows adjust Lne · outpul leve · th channe outputs · AUXILIARY · tch SWZ: When depressed the channe · signa · output5 · iMu taneous · itched and pear 5
 - **Title block:** (135, 0)–(324, 318) mm: WBS · M479 · AUXILIARY Teve contro R22; · ows adjust Lne · outpul leve · th channe outputs · Space for channe i dent · fication des i gnation. · AUXILIARY leve | contro · RI: · lows · adjus t che · ou
 
-Every curve, box, word and wire group: [1978 - M479 - 479-04-003 - DUAL AUXILIARY MODULE FRONT PANEL (traced).json](../MECHANICAL/1978%20-%20M479%20-%20479-04-003%20-%20DUAL%20AUXILIARY%20MODULE%20FRONT%20PANEL%20(traced).json) (the CAD file: `1978 - M479 - 479-04-003 - DUAL AUXILIARY MODULE FRONT PANEL (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M479 - 479-04-003 - DUAL AUXILIARY MODULE FRONT PANEL (traced).json](../MECHANICAL/1978%20-%20M479%20-%20479-04-003%20-%20DUAL%20AUXILIARY%20MODULE%20FRONT%20PANEL%20%28traced%29.json) (the CAD file: `1978 - M479 - 479-04-003 - DUAL AUXILIARY MODULE FRONT PANEL (traced).dxf`).
 
 ## Full text
 

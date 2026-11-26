@@ -35,7 +35,7 @@ Wiki page: [M479](../../../../PAGES/M479.md)
 - **Words (OCR):** 140 in 134 lines: R75222 · R76 e29 · R7t? · R78 922 · R3 22* · ~Ris 22* · 15014 Ci - R7 · Rib · Sk · 82 · Sk · Ris _2*
 - **Title block:** (50, 0)–(362, 258) mm: R22 · 5k · 2241 22 · 23 · 22p1 · wBS · c27 Lm3oi · C28 · 24 · 10-015 · Lm3oi · Lm30i · Lmzoi · {lie · ~C6 · Dsz · FLI7 · 204 · CR4B Jek · R2 · ~R4s @K2 · 2n3645 · 08 · 03 · R43 % · Rs7 $7 · RGs 47 · R
 
-Every curve, box, word and wire group: [1982 - 479-06-001 - DUAL AUXILIARY MODULE LAYOUT - DRN GEB - ENG GEB - ISS 4 (traced).json](../SCHEMATICS/1982%20-%20479-06-001%20-%20DUAL%20AUXILIARY%20MODULE%20LAYOUT%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%204%20(traced).json) (the CAD file: `1982 - 479-06-001 - DUAL AUXILIARY MODULE LAYOUT - DRN GEB - ENG GEB - ISS 4 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - 479-06-001 - DUAL AUXILIARY MODULE LAYOUT - DRN GEB - ENG GEB - ISS 4 (traced).json](../SCHEMATICS/1982%20-%20479-06-001%20-%20DUAL%20AUXILIARY%20MODULE%20LAYOUT%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%204%20%28traced%29.json) (the CAD file: `1982 - 479-06-001 - DUAL AUXILIARY MODULE LAYOUT - DRN GEB - ENG GEB - ISS 4 (traced).dxf`).
 
 ## Full text
 
