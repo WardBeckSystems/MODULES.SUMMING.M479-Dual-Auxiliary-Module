@@ -3,155 +3,490 @@
  "connector": "RTO-144",
  "type": "M479 Dual Auxiliary Module",
  "series": null,
- "contacts": "21 contacts (P2)",
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 22,
+   "rows": "1-22 single row",
+   "view": "rear",
+   "part": null
+  }
+ ],
  "verified": null,
- "derived": false,
- "variant_of": null,
+ "built_from": {
+  "pictures": [
+   "M479/PINOUTS/1978 - M479 - P17 - Pin Out.pinout.json"
+  ],
+  "sheet": "Engineering/RTO-144/M479/M479.rto144.json",
+  "sheet_agrees": "11 of 11"
+ },
  "pins": [
   {
+   "connector": "P1",
    "pin": "1",
-   "signal": "SUMMING IN 1",
+   "ref": "1",
+   "also": null,
+   "same_row": null,
+   "signal": "SUMMING INPUT 1",
    "kind": "in",
-   "pair": "A1",
-   "polarity": "+",
+   "port": "SUMMING INPUT 1",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M479/M479.rto144.json",
-   "page": 1
+   "read_from": [
+    "M479/PINOUTS/1978 - M479 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Summing IN 1 +",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "2",
-   "signal": "SUMMING IN 1",
+   "ref": "2",
+   "also": null,
+   "same_row": null,
+   "signal": "SUMMING INPUT 1",
    "kind": "in",
-   "pair": "A1",
-   "polarity": "-",
+   "port": "SUMMING INPUT 1",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M479/M479.rto144.json",
-   "page": 1
+   "read_from": [
+    "M479/PINOUTS/1978 - M479 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Summing IN 1 -",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "3",
-   "signal": "SUMMING IN 2",
+   "ref": "3",
+   "also": null,
+   "same_row": null,
+   "signal": "SUMMING INPUT 2",
    "kind": "in",
-   "pair": "A2",
-   "polarity": "+",
+   "port": "SUMMING INPUT 2",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M479/M479.rto144.json",
-   "page": 1
+   "read_from": [
+    "M479/PINOUTS/1978 - M479 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Summing IN 2 +",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "4",
-   "signal": "SUMMING IN 2",
+   "ref": "4",
+   "also": null,
+   "same_row": null,
+   "signal": "SUMMING INPUT 2",
    "kind": "in",
-   "pair": "A2",
-   "polarity": "-",
+   "port": "SUMMING INPUT 2",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M479/M479.rto144.json",
-   "page": 1
+   "read_from": [
+    "M479/PINOUTS/1978 - M479 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Summing IN 2 -",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
+   "pin": "5",
+   "ref": "5",
+   "also": null,
+   "same_row": null,
+   "signal": "SHIELD (INPUTS 1-4)",
+   "kind": "shield",
+   "port": null,
+   "polarity": "shield",
+   "confidence": "high",
+   "read_from": [
+    "M479/PINOUTS/1978 - M479 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "6",
+   "ref": "6",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 1",
+   "kind": "in",
+   "port": "EXTERNAL INPUT 1",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M479/PINOUTS/1978 - M479 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "ref": "7",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 1",
+   "kind": "in",
+   "port": "EXTERNAL INPUT 1",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M479/PINOUTS/1978 - M479 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "8",
+   "ref": "8",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 2",
+   "kind": "in",
+   "port": "EXTERNAL INPUT 2",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M479/PINOUTS/1978 - M479 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "9",
+   "ref": "9",
+   "also": null,
+   "same_row": null,
+   "signal": "EXTERNAL INPUT 2",
+   "kind": "in",
+   "port": "EXTERNAL INPUT 2",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M479/PINOUTS/1978 - M479 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "10",
+   "ref": "10",
+   "also": null,
+   "same_row": null,
+   "signal": "SHIELD (INPUTS 6-9)",
+   "kind": "shield",
+   "port": null,
+   "polarity": "shield",
+   "confidence": "high",
+   "read_from": [
+    "M479/PINOUTS/1978 - M479 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "11",
-   "signal": "OUT 1",
+   "ref": "11",
+   "also": null,
+   "same_row": null,
+   "signal": "AUX OUTPUT 1",
    "kind": "out",
-   "pair": "A3",
-   "polarity": "+",
+   "port": "AUX OUTPUT 1",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M479/M479.rto144.json",
-   "page": 1
+   "read_from": [
+    "M479/PINOUTS/1978 - M479 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "OUT 1 +",
+    "kind": "out",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "12",
-   "signal": "OUT 1",
+   "ref": "12",
+   "also": null,
+   "same_row": null,
+   "signal": "AUX OUTPUT 1",
    "kind": "out",
-   "pair": "A3",
-   "polarity": "-",
+   "port": "AUX OUTPUT 1",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M479/M479.rto144.json",
-   "page": 1
+   "read_from": [
+    "M479/PINOUTS/1978 - M479 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "OUT 1 -",
+    "kind": "out",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
+   "pin": "13",
+   "ref": "13",
+   "also": null,
+   "same_row": null,
+   "signal": "MONITOR OUTPUT 1",
+   "kind": "out",
+   "port": "MONITOR OUTPUT 1",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M479/PINOUTS/1978 - M479 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "14",
+   "ref": "14",
+   "also": null,
+   "same_row": null,
+   "signal": "MONITOR OUTPUT 1",
+   "kind": "out",
+   "port": "MONITOR OUTPUT 1",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M479/PINOUTS/1978 - M479 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "15",
-   "signal": "OUT 2",
+   "ref": "15",
+   "also": null,
+   "same_row": null,
+   "signal": "AUX OUTPUT 2",
    "kind": "out",
-   "pair": "A4",
-   "polarity": "+",
+   "port": "AUX OUTPUT 2",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M479/M479.rto144.json",
-   "page": 1
+   "read_from": [
+    "M479/PINOUTS/1978 - M479 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "OUT 2 +",
+    "kind": "out",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "16",
-   "signal": "OUT 2",
+   "ref": "16",
+   "also": null,
+   "same_row": null,
+   "signal": "AUX OUTPUT 2",
    "kind": "out",
-   "pair": "A4",
-   "polarity": "-",
+   "port": "AUX OUTPUT 2",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M479/M479.rto144.json",
-   "page": 1
+   "read_from": [
+    "M479/PINOUTS/1978 - M479 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "OUT 2 -",
+    "kind": "out",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
+   "pin": "17",
+   "ref": "17",
+   "also": null,
+   "same_row": null,
+   "signal": "MONITOR OUTPUT 2",
+   "kind": "out",
+   "port": "MONITOR OUTPUT 2",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M479/PINOUTS/1978 - M479 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "18",
+   "ref": "18",
+   "also": null,
+   "same_row": null,
+   "signal": "MONITOR OUTPUT 2",
+   "kind": "out",
+   "port": "MONITOR OUTPUT 2",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M479/PINOUTS/1978 - M479 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "19",
+   "ref": "19",
+   "also": null,
+   "same_row": null,
    "signal": "-25 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M479/M479.rto144.json",
-   "page": 1
+   "read_from": [
+    "M479/PINOUTS/1978 - M479 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VEE-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "20",
-   "signal": "COMMON",
+   "ref": "20",
+   "also": null,
+   "same_row": null,
+   "signal": "±25 V COMMON",
    "kind": "ground",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M479/M479.rto144.json",
-   "page": 1
+   "read_from": [
+    "M479/PINOUTS/1978 - M479 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GND",
+    "kind": "ground",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "21",
+   "ref": "21",
+   "also": null,
+   "same_row": null,
    "signal": "+25 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M479/M479.rto144.json",
-   "page": 1
-  }
- ],
- "straps": [],
- "power": [
-  {
-   "rail": "VEE-AUDIO",
-   "style": "NEW",
-   "volts": -25,
-   "max_a": 0.1,
-   "supply": "P2-19",
-   "ground": "P2-20",
-   "link": 2
+   "read_from": [
+    "M479/PINOUTS/1978 - M479 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VCC-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   },
   {
-   "rail": "VCC-AUDIO",
-   "style": "NEW",
-   "volts": 25,
-   "max_a": 0.2,
-   "supply": "P2-21",
-   "ground": "P2-20",
-   "link": 1
+   "connector": "P1",
+   "pin": "22",
+   "ref": "22",
+   "also": null,
+   "same_row": null,
+   "signal": "CHASSIS GROUND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M479/PINOUTS/1978 - M479 - P17 - Pin Out.pinout.json"
+   ],
+   "sheet": null
   }
  ],
- "sources": [
-  "Engineering/RTO-144/M479/M479.rto144.json"
- ]
+ "ports": [
+  {
+   "name": "SUMMING INPUT 1",
+   "dir": "in",
+   "pins": {
+    "a": "P1-1",
+    "b": "P1-2"
+   }
+  },
+  {
+   "name": "SUMMING INPUT 2",
+   "dir": "in",
+   "pins": {
+    "a": "P1-3",
+    "b": "P1-4"
+   }
+  },
+  {
+   "name": "EXTERNAL INPUT 1",
+   "dir": "in",
+   "pins": {
+    "a": "P1-6",
+    "b": "P1-7"
+   }
+  },
+  {
+   "name": "EXTERNAL INPUT 2",
+   "dir": "in",
+   "pins": {
+    "a": "P1-8",
+    "b": "P1-9"
+   }
+  },
+  {
+   "name": "AUX OUTPUT 1",
+   "dir": "out",
+   "pins": {
+    "a": "P1-11",
+    "b": "P1-12"
+   }
+  },
+  {
+   "name": "MONITOR OUTPUT 1",
+   "dir": "out",
+   "pins": {
+    "a": "P1-13",
+    "b": "P1-14"
+   }
+  },
+  {
+   "name": "AUX OUTPUT 2",
+   "dir": "out",
+   "pins": {
+    "a": "P1-15",
+    "b": "P1-16"
+   }
+  },
+  {
+   "name": "MONITOR OUTPUT 2",
+   "dir": "out",
+   "pins": {
+    "a": "P1-17",
+    "b": "P1-18"
+   }
+  }
+ ],
+ "inserts": [],
+ "straps": [],
+ "conflicts": [],
+ "to_check": []
 }

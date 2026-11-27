@@ -1,0 +1,321 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1978 - M479 - P17 - Pin Out.jpg",
+  "module": "M479",
+  "applies_to": [
+    "M479"
+  ],
+  "pinout": true,
+  "drawing": {
+    "number": "479-04-002",
+    "title": "M479 DUAL AUXILIARY MODULE CONNECTOR REAR VIEW",
+    "date": "1977-08",
+    "issue": "1",
+    "drawn": "E.R."
+  },
+  "connectors": [
+    {
+      "name": "P1",
+      "kind": "edge",
+      "contacts": 22,
+      "rows": "1-22 single row",
+      "view": "rear",
+      "part": null
+    }
+  ],
+  "pins": [
+    {
+      "connector": "P1",
+      "pin": "1",
+      "also": null,
+      "as_drawn": "SUMMING INPUT #1",
+      "signal": "SUMMING INPUT 1",
+      "kind": "in",
+      "port": "SUMMING INPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "2",
+      "also": null,
+      "as_drawn": "SUMMING INPUT #1",
+      "signal": "SUMMING INPUT 1",
+      "kind": "in",
+      "port": "SUMMING INPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "3",
+      "also": null,
+      "as_drawn": "SUMMING INPUT #2",
+      "signal": "SUMMING INPUT 2",
+      "kind": "in",
+      "port": "SUMMING INPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "4",
+      "also": null,
+      "as_drawn": "SUMMING INPUT #2",
+      "signal": "SUMMING INPUT 2",
+      "kind": "in",
+      "port": "SUMMING INPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "5",
+      "also": null,
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD (INPUTS 1-4)",
+      "kind": "shield",
+      "port": null,
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "6",
+      "also": null,
+      "as_drawn": "EXTERNAL INPUT #1",
+      "signal": "EXTERNAL INPUT 1",
+      "kind": "in",
+      "port": "EXTERNAL INPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "7",
+      "also": null,
+      "as_drawn": "EXTERNAL INPUT #1",
+      "signal": "EXTERNAL INPUT 1",
+      "kind": "in",
+      "port": "EXTERNAL INPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "8",
+      "also": null,
+      "as_drawn": "EXTERNAL INPUT #2",
+      "signal": "EXTERNAL INPUT 2",
+      "kind": "in",
+      "port": "EXTERNAL INPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "9",
+      "also": null,
+      "as_drawn": "EXTERNAL INPUT #2",
+      "signal": "EXTERNAL INPUT 2",
+      "kind": "in",
+      "port": "EXTERNAL INPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "10",
+      "also": null,
+      "as_drawn": "SHIELD",
+      "signal": "SHIELD (INPUTS 6-9)",
+      "kind": "shield",
+      "port": null,
+      "polarity": "shield"
+    },
+    {
+      "connector": "P1",
+      "pin": "11",
+      "also": null,
+      "as_drawn": "AUX OUTPUT #1",
+      "signal": "AUX OUTPUT 1",
+      "kind": "out",
+      "port": "AUX OUTPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "12",
+      "also": null,
+      "as_drawn": "AUX OUTPUT #1",
+      "signal": "AUX OUTPUT 1",
+      "kind": "out",
+      "port": "AUX OUTPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "13",
+      "also": null,
+      "as_drawn": "MONITOR OUTPUT #1",
+      "signal": "MONITOR OUTPUT 1",
+      "kind": "out",
+      "port": "MONITOR OUTPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "14",
+      "also": null,
+      "as_drawn": "MONITOR OUTPUT #1",
+      "signal": "MONITOR OUTPUT 1",
+      "kind": "out",
+      "port": "MONITOR OUTPUT 1",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "15",
+      "also": null,
+      "as_drawn": "AUX OUTPUT #2",
+      "signal": "AUX OUTPUT 2",
+      "kind": "out",
+      "port": "AUX OUTPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "16",
+      "also": null,
+      "as_drawn": "AUX OUTPUT #2",
+      "signal": "AUX OUTPUT 2",
+      "kind": "out",
+      "port": "AUX OUTPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "17",
+      "also": null,
+      "as_drawn": "MONITOR OUTPUT #2",
+      "signal": "MONITOR OUTPUT 2",
+      "kind": "out",
+      "port": "MONITOR OUTPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "18",
+      "also": null,
+      "as_drawn": "MONITOR OUTPUT #2",
+      "signal": "MONITOR OUTPUT 2",
+      "kind": "out",
+      "port": "MONITOR OUTPUT 2",
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "19",
+      "also": null,
+      "as_drawn": "-25V",
+      "signal": "-25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "20",
+      "also": null,
+      "as_drawn": "±COM",
+      "signal": "±25 V COMMON",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "21",
+      "also": null,
+      "as_drawn": "+25V",
+      "signal": "+25 V",
+      "kind": "power",
+      "port": null,
+      "polarity": null
+    },
+    {
+      "connector": "P1",
+      "pin": "22",
+      "also": null,
+      "as_drawn": "CHASSIS GND",
+      "signal": "CHASSIS GROUND",
+      "kind": "ground",
+      "port": null,
+      "polarity": null
+    }
+  ],
+  "ports": [
+    {
+      "name": "SUMMING INPUT 1",
+      "dir": "in",
+      "pins": {
+        "a": "P1-1",
+        "b": "P1-2"
+      }
+    },
+    {
+      "name": "SUMMING INPUT 2",
+      "dir": "in",
+      "pins": {
+        "a": "P1-3",
+        "b": "P1-4"
+      }
+    },
+    {
+      "name": "EXTERNAL INPUT 1",
+      "dir": "in",
+      "pins": {
+        "a": "P1-6",
+        "b": "P1-7"
+      }
+    },
+    {
+      "name": "EXTERNAL INPUT 2",
+      "dir": "in",
+      "pins": {
+        "a": "P1-8",
+        "b": "P1-9"
+      }
+    },
+    {
+      "name": "AUX OUTPUT 1",
+      "dir": "out",
+      "pins": {
+        "a": "P1-11",
+        "b": "P1-12"
+      }
+    },
+    {
+      "name": "MONITOR OUTPUT 1",
+      "dir": "out",
+      "pins": {
+        "a": "P1-13",
+        "b": "P1-14"
+      }
+    },
+    {
+      "name": "AUX OUTPUT 2",
+      "dir": "out",
+      "pins": {
+        "a": "P1-15",
+        "b": "P1-16"
+      }
+    },
+    {
+      "name": "MONITOR OUTPUT 2",
+      "dir": "out",
+      "pins": {
+        "a": "P1-17",
+        "b": "P1-18"
+      }
+    }
+  ],
+  "inserts": [],
+  "straps": [],
+  "unread": [
+    "connector name not drawn; 'P1' assumed"
+  ],
+  "confidence": "high",
+  "notes": "Single row 1-22, pairs bracketed. No polarity marks: a/b in pin order. Shield 5 sits after the summing inputs, shield 10 after the external inputs (which port each serves is not stated). Date AUG 77 though the file name says 1978. No inserts."
+}

@@ -84,21 +84,32 @@ Not on Google Drive yet: `M479 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-21 contacts (P2). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it); the RTO-144 sheet agrees on 11 of 11 contacts. Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 1 | SUMMING IN 1 | in | A1 + | high |
-| 2 | SUMMING IN 1 | in | A1 - | high |
-| 3 | SUMMING IN 2 | in | A2 + | high |
-| 4 | SUMMING IN 2 | in | A2 - | high |
-| 11 | OUT 1 | out | A3 + | high |
-| 12 | OUT 1 | out | A3 - | high |
-| 15 | OUT 2 | out | A4 + | high |
-| 16 | OUT 2 | out | A4 - | high |
+| 1 | SUMMING INPUT 1 | in | SUMMING INPUT 1 | high |
+| 2 | SUMMING INPUT 1 | in | SUMMING INPUT 1 | high |
+| 3 | SUMMING INPUT 2 | in | SUMMING INPUT 2 | high |
+| 4 | SUMMING INPUT 2 | in | SUMMING INPUT 2 | high |
+| 5 | SHIELD (INPUTS 1-4) | shield | shield | high |
+| 6 | EXTERNAL INPUT 1 | in | EXTERNAL INPUT 1 | high |
+| 7 | EXTERNAL INPUT 1 | in | EXTERNAL INPUT 1 | high |
+| 8 | EXTERNAL INPUT 2 | in | EXTERNAL INPUT 2 | high |
+| 9 | EXTERNAL INPUT 2 | in | EXTERNAL INPUT 2 | high |
+| 10 | SHIELD (INPUTS 6-9) | shield | shield | high |
+| 11 | AUX OUTPUT 1 | out | AUX OUTPUT 1 | high |
+| 12 | AUX OUTPUT 1 | out | AUX OUTPUT 1 | high |
+| 13 | MONITOR OUTPUT 1 | out | MONITOR OUTPUT 1 | high |
+| 14 | MONITOR OUTPUT 1 | out | MONITOR OUTPUT 1 | high |
+| 15 | AUX OUTPUT 2 | out | AUX OUTPUT 2 | high |
+| 16 | AUX OUTPUT 2 | out | AUX OUTPUT 2 | high |
+| 17 | MONITOR OUTPUT 2 | out | MONITOR OUTPUT 2 | high |
+| 18 | MONITOR OUTPUT 2 | out | MONITOR OUTPUT 2 | high |
 | 19 | -25 V | power |  | high |
-| 20 | COMMON | ground |  | high |
+| 20 | ±25 V COMMON | ground |  | high |
 | 21 | +25 V | power |  | high |
+| 22 | CHASSIS GROUND | ground |  | high |
 
 ## Manuals and documents
 
