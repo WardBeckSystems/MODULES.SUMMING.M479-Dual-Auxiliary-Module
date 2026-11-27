@@ -1,17 +1,17 @@
-# M479 · Summing
+# M479 Dual Auxiliary Module · Summing
 
 Ward-Beck Systems M479, 1978|11. Wiki page: [M479 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M479.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 22 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 4 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 124 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 31 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 28 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 11 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 125 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 11 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 30 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -66,8 +66,8 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKN3Bfa1A2Qk44T2s/view?resourcekey=0-eQtzlSlM2FMkJdysRTqAKw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKN3Bfa1A2Qk44T2s&resourcekey=0-eQtzlSlM2FMkJdysRTqAKw" width="240" alt="1978 - M479 - 479-01-001 - DUAL AUXILIARY MODULE FUNCTIONAL DIAGRAM.jpg"></a><br><sub>1978|11 · 479-01-001 - DUAL AUXILIARY MODULE FUNCTIONAL DIAGRAM · <a href="SCHEMATICS/1978%20-%20M479%20-%20479-01-001%20-%20DUAL%20AUXILIARY%20MODULE%20FUNCTIONAL%20DIAGRAM%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKdTVTNkdkZk9BMUU/view?resourcekey=0-ljMqVYasWeYQ9fqWHFON1w" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKdTVTNkdkZk9BMUU&resourcekey=0-ljMqVYasWeYQ9fqWHFON1w" width="240" alt="1978 - M479 - 479-06-001 - WARD-DECK BYOTUMTS DAM GEF ENG.jpg"></a><br><sub>1978|11 · 479-06-001 - WARD-DECK BYOTUMTS DAM GEF ENG · <a href="SCHEMATICS/1978%20-%20M479%20-%20479-06-001%20-%20WARD-DECK%20BYOTUMTS%20DAM%20GEF%20ENG%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRFZzUC16bzBLUE0/view?resourcekey=0-E3PoddyBiGUC4cdL-KzaQQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRFZzUC16bzBLUE0&resourcekey=0-E3PoddyBiGUC4cdL-KzaQQ" width="240" alt="1978 - M479 - P15 - Schematic.jpg"></a><br><sub>1978|11 · P15 - Schematic</sub></td></tr>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1dzQuhcHLqZHYuCyZf_ADrXlexs0zpLmo/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1dzQuhcHLqZHYuCyZf_ADrXlexs0zpLmo" width="240" alt="1992 - M479 - DOC - 920477-01-001 - OHMS SWTCHED SSUE REMSION FUTURE FUTURE.jpg"></a><br><sub>1992|25 · DOC - 920477-01-001 - OHMS SWTCHED SSUE REMSION FUTURE FUTURE</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1dqPu6J43zNGBeDMsvZeY4CjtPV4IQksJ/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1dqPu6J43zNGBeDMsvZeY4CjtPV4IQksJ" width="240" alt="19xx - M479 - DOC - 479-02-001 - DUAL AUXILIARY MODULE SCHEMATIC.jpg"></a><br><sub>19xx - M479 - DOC - 479-02-001 - DUAL AUXILIARY MODULE SCHEMATIC</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/109KQyA72uuIDv0gHiqS2qh5Zof3KCBMs/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=109KQyA72uuIDv0gHiqS2qh5Zof3KCBMs" width="240" alt="2017 - M479 - DOC - 920170-01-001 - SWTCHED DIRECT MONITOR OUTPUTS DDZME.jpg"></a><br><sub>2017|50 · DOC - 920170-01-001 - SWTCHED DIRECT MONITOR OUTPUTS DDZME</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKN3Bfa1A2Qk44T2s/view?resourcekey=0-eQtzlSlM2FMkJdysRTqAKw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKN3Bfa1A2Qk44T2s&resourcekey=0-eQtzlSlM2FMkJdysRTqAKw" width="240" alt="1978 - M479 - 479-01-001 - DUAL AUXILIARY MODULE FUNCTIONAL DIAGRAM.jpg"></a><br><sub>1978|11 · 479-01-001 - DUAL AUXILIARY MODULE FUNCTIONAL DIAGRAM · <a href="SCHEMATICS/1978%20-%20M479%20-%20479-01-001%20-%20DUAL%20AUXILIARY%20MODULE%20FUNCTIONAL%20DIAGRAM%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRFZzUC16bzBLUE0/view?resourcekey=0-E3PoddyBiGUC4cdL-KzaQQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRFZzUC16bzBLUE0&resourcekey=0-E3PoddyBiGUC4cdL-KzaQQ" width="240" alt="1978 - M479 - P15 - Schematic.jpg"></a><br><sub>1978|11 · P15 - Schematic · <a href="SCHEMATICS/1978%20-%20M479%20-%20P15%20-%20Schematic%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1dzQuhcHLqZHYuCyZf_ADrXlexs0zpLmo/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1dzQuhcHLqZHYuCyZf_ADrXlexs0zpLmo" width="240" alt="1992 - M479 - DOC - 920477-01-001 - OHMS SWTCHED SSUE REMSION FUTURE FUTURE.jpg"></a><br><sub>1992|25 · DOC - 920477-01-001 - OHMS SWTCHED SSUE REMSION FUTURE FUTURE · <a href="SCHEMATICS/1992%20-%20M479%20-%20DOC%20-%20920477-01-001%20-%20OHMS%20SWTCHED%20SSUE%20REMSION%20FUTURE%20FUTURE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1dqPu6J43zNGBeDMsvZeY4CjtPV4IQksJ/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1dqPu6J43zNGBeDMsvZeY4CjtPV4IQksJ" width="240" alt="19xx - M479 - DOC - 479-02-001 - DUAL AUXILIARY MODULE SCHEMATIC.jpg"></a><br><sub>19xx - M479 - DOC - 479-02-001 - DUAL AUXILIARY MODULE SCHEMATIC · <a href="SCHEMATICS/19xx%20-%20M479%20-%20DOC%20-%20479-02-001%20-%20DUAL%20AUXILIARY%20MODULE%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/109KQyA72uuIDv0gHiqS2qh5Zof3KCBMs/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=109KQyA72uuIDv0gHiqS2qh5Zof3KCBMs" width="240" alt="2017 - M479 - DOC - 920170-01-001 - SWTCHED DIRECT MONITOR OUTPUTS DDZME.jpg"></a><br><sub>2017|50 · DOC - 920170-01-001 - SWTCHED DIRECT MONITOR OUTPUTS DDZME · <a href="SCHEMATICS/2017%20-%20M479%20-%20DOC%20-%20920170-01-001%20-%20SWTCHED%20DIRECT%20MONITOR%20OUTPUTS%20DDZME%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `1982 - 479-06-001 - DUAL AUXILIARY MODULE LAYOUT - DRN GEB - ENG GEB - ISS 4.jpg`
@@ -77,7 +77,7 @@ Not on Google Drive yet: `1982 - 479-06-001 - DUAL AUXILIARY MODULE LAYOUT - DRN
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKY19pQkl5NlliZEE/view?resourcekey=0-jOGmoCmG0w_p3zZ8oxRmsg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKY19pQkl5NlliZEE&resourcekey=0-jOGmoCmG0w_p3zZ8oxRmsg" width="240" alt="1978 - M479 - P17 - Pin Out.jpg"></a><br><sub>1978|11 · P17 - Pin Out</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKY19pQkl5NlliZEE/view?resourcekey=0-jOGmoCmG0w_p3zZ8oxRmsg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKY19pQkl5NlliZEE&resourcekey=0-jOGmoCmG0w_p3zZ8oxRmsg" width="240" alt="1978 - M479 - P17 - Pin Out.jpg"></a><br><sub>1978|11 · P17 - Pin Out · <a href="PINOUTS/1978%20-%20M479%20-%20P17%20-%20Pin%20Out%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `M479 - RTO-144 Connections.pdf`
@@ -135,7 +135,16 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1978 - M479 - Dual Auxiliary Module (2) p3.kicad_sch](KICAD/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20(2)%20p3.kicad_sch)
 - [1978 - M479 - Dual Auxiliary Module p14.kicad_sch](KICAD/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20p14.kicad_sch)
 - [1978 - M479 - Dual Auxiliary Module p15.kicad_sch](KICAD/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module%20p15.kicad_sch)
+- [1978 - M479 - P15 - Schematic.kicad_sch](KICAD/1978%20-%20M479%20-%20P15%20-%20Schematic.kicad_sch)
+- [1992 - M479 - DOC - 920477-01-001 - OHMS SWTCHED SSUE REMSION FUTURE FUTURE.kicad_sch](KICAD/1992%20-%20M479%20-%20DOC%20-%20920477-01-001%20-%20OHMS%20SWTCHED%20SSUE%20REMSION%20FUTURE%20FUTURE.kicad_sch)
+- [19xx - M479 - DOC - 479-02-001 - DUAL AUXILIARY MODULE SCHEMATIC.kicad_sch](KICAD/19xx%20-%20M479%20-%20DOC%20-%20479-02-001%20-%20DUAL%20AUXILIARY%20MODULE%20SCHEMATIC.kicad_sch)
+- [2017 - M479 - DOC - 920170-01-001 - SWTCHED DIRECT MONITOR OUTPUTS DDZME.kicad_sch](KICAD/2017%20-%20M479%20-%20DOC%20-%20920170-01-001%20-%20SWTCHED%20DIRECT%20MONITOR%20OUTPUTS%20DDZME.kicad_sch)
 - [M479.kicad_sym](KICAD/M479.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
