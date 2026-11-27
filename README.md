@@ -13,6 +13,46 @@ Ward-Beck Systems M479, 1978|11. Wiki page: [M479 on WBSps.ca](https://wardbecks
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 31 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [14 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1978 - M479 - Dual Auxiliary Module.pdf](MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module.pdf) page 5 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | 18 dB ±0.5 dB |
+| **Frequency response** | ±0.25 dB from 30 Hz to 20 kHz. |
+| **Noise** | 70 dB be ]ow +8 dBm nomina ] output level, (with 20 inputs connected to summing terminals). (20 Hz Lo 20 kHz) |
+| **Harmonic distortion** | Less than 0.25% ThD from 30 Hz to 20 kHz at +18 dBm output or Tess Less than 0.05% at kHz at +18 dBm output |
+| **Source impedances** | External: Summing: 600 ohms or Less baLanced 30,000 ohms; baLanced |
+| **Input impedances** | Externa]: Summing: 60,000 ohms balanced. Less than 5 ohms |
+| **Output impedances** |  |
+| &nbsp;&nbsp;Main | Monitor: 150 ohms at Pins 11/12 and 15/16 300 ohms at pins 13/14 and 17/18 |
+| **Load impedances** | Main: Monitor: 600 ohms balanced, 4K ohms minimum, baLanced |
+| **Output level** | +8 dBm nomina 1 +24 dBm maximum (+4 dBm nomina 1 by interna] strapping) |
+| **Channel separation** | Phasing: 70 dB from 30 Hz to 15 kHz. Low numbered input and output terminals are in phase |
+| **Power requirements** | +25 volts dc, 35 MA nomina 1, 80 mAmaximum |
+| **Dimensions** | 1 6 &quot; wide X 7&quot; high X 6.5&quot; deep. (41 MM X 178 mm X 165 mm) |
+
+## Circuit description
+
+From [1978 - M479 - Dual Auxiliary Module.pdf](MANUALS/1978%20-%20M479%20-%20Dual%20Auxiliary%20Module.pdf) pages 6-8 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+The M479 15 designed to receive the auxiliary output feeds originating from the WBS M470 and M473 input and submaster modules combine them and permit Teve 1 adjustment of the comb inea output mix. Two AUXILIARY outputs are provided per module Input and_Summing Amplifier The signa 1 originating from the externa] mixing network is applied to the SUMMING current nodes of the input amplifier via pins 1/2 of the module edge connector An EXTERNAL 60,000 ohm input is provided at pins 6/7 which maybe used for talkback or cue input feed This input i5 designed to operate from 0 dBm, 600 ohm source 21 and 22 with their associated components form the inputs umming preamp] i fier for channe] 1 The s igna ] from the preamplifier output is coupled through c6 to Rll, the level contro] Similarly, the SUMMING input for channel 2 appears at pins 3/4 and the EXTERNAL bridging input at pins 8 /9 73 and 24 form the preampli fier. R2Z is the level contro] for channe] 2. Qutput_Amplifier The channe] signa] is routed through switch SWl to the actively baLanced output amplifier comprising 25 26, Q1 through 04 and their associated components The MAIn output for channel appears at pins 11/12 of the module edge connector The nomina ] Teve] at this point 15 +8 dBm into 600 ohm Toad If +4 dBm nomina 1 output i$ required the shorting ink J1 Maybe removed to reduce the gain of the output amplifier by dB The MoniToRING output for channc 1 1 appearing at Pins 13/14 of the mo du Te connector is intended to Teed VU meter and the required inputs to the monitoring circuitry The Tatter should have 30k ohm bridging impedance or higher
+
+**CIRCUII_DESCRIPIION**
+
+Sn2 i5 Lhe output switch for channe] 2 27, 28 and Q5 through Q8 comprise the output amplifier The channe] 2 Main output appears at pins 15/16 and the MonITOR output at Pins 17/18 For +4 dBm operation, J2 maybe removed Power Supply_Decoupling Power supply decoup] ing i5 provided by CR9 CR10, R7I through R74 and C23 through C26 R73 and R74 decouple the supply voltage and reduce it to +18 volts to operate 21 through 28
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._

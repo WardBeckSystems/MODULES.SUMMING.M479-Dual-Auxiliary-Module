@@ -1,0 +1,27 @@
+{
+ "module": "M479",
+ "source": {
+  "file": "MANUALS/1978 - M479 - Dual Auxiliary Module.pdf",
+  "pages": [
+   6,
+   7,
+   8
+  ]
+ },
+ "ocr_quality": 0.87,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "The M479 15 designed to receive the auxiliary output feeds originating from the WBS M470 and M473 input and submaster modules combine them and permit Teve 1 adjustment of the comb inea output mix. Two AUXILIARY outputs are provided per module Input and_Summing Amplifier The signa 1 originating from the externa] mixing network is applied to the SUMMING current nodes of the input amplifier via pins 1/2 of the module edge connector An EXTERNAL 60,000 ohm input is provided at pins 6/7 which maybe used for talkback or cue input feed This input i5 designed to operate from 0 dBm, 600 ohm source 21 and 22 with their associated components form the inputs umming preamp] i fier for channe] 1 The s igna ] from the preamplifier output is coupled through c6 to Rll, the level contro] Similarly, the SUMMING input for channel 2 appears at pins 3/4 and the EXTERNAL bridging input at pins 8 /9 73 and 24 form the preampli fier. R2Z is the level contro] for channe] 2. Qutput_Amplifier The channe] signa] is routed through switch SWl to the actively baLanced output amplifier comprising 25 26, Q1 through 04 and their associated components The MAIn output for channel appears at pins 11/12 of the module edge connector The nomina ] Teve] at this point 15 +8 dBm into 600 ohm Toad If +4 dBm nomina 1 output i$ required the shorting ink J1 Maybe removed to reduce the gain of the output amplifier by dB The MoniToRING output for channc 1 1 appearing at Pins 13/14 of the mo du Te connector is intended to Teed VU meter and the required inputs to the monitoring circuitry The Tatter should have 30k ohm bridging impedance or higher"
+   ]
+  },
+  {
+   "heading": "CIRCUII_DESCRIPIION",
+   "paragraphs": [
+    "Sn2 i5 Lhe output switch for channe] 2 27, 28 and Q5 through Q8 comprise the output amplifier The channe] 2 Main output appears at pins 15/16 and the MonITOR output at Pins 17/18 For +4 dBm operation, J2 maybe removed Power Supply_Decoupling Power supply decoup] ing i5 provided by CR9 CR10, R7I through R74 and C23 through C26 R73 and R74 decouple the supply voltage and reduce it to +18 volts to operate 21 through 28"
+   ]
+  }
+ ]
+}

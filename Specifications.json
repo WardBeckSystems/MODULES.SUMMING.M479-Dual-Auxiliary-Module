@@ -1,0 +1,249 @@
+{
+ "module": "M479",
+ "title": "M479 DUAL AUXILIARY MODULE",
+ "source": {
+  "file": "MANUALS/1978 - M479 - Dual Auxiliary Module.pdf",
+  "page": 5
+ },
+ "ocr_quality": 0.9,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "18 dB ±0.5 dB",
+   "quantities": [
+    {
+     "value": 18,
+     "unit": "dB"
+    },
+    {
+     "value": 0.5,
+     "unit": "dB",
+     "tolerance": true
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "±0.25 dB from 30 Hz to 20 kHz.",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "70 dB be ]ow +8 dBm nomina ] output level, (with 20 inputs connected to summing terminals). (20 Hz Lo 20 kHz)",
+   "quantities": [
+    {
+     "value": 70,
+     "unit": "dB"
+    },
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.25% ThD from 30 Hz to 20 kHz at +18 dBm output or Tess Less than 0.05% at kHz at +18 dBm output",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "%"
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 18,
+     "unit": "dBm"
+    },
+    {
+     "value": 0.05,
+     "unit": "%"
+    },
+    {
+     "value": 18,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedances",
+   "key": "source_impedance",
+   "text": "External: Summing: 600 ohms or Less baLanced 30,000 ohms; baLanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 30000,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedances",
+   "key": "input_impedance",
+   "text": "Externa]: Summing: 60,000 ohms balanced. Less than 5 ohms",
+   "quantities": [
+    {
+     "value": 60000,
+     "unit": "ohms"
+    },
+    {
+     "value": 5,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output impedances",
+   "key": "output_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Main",
+     "text": "Monitor: 150 ohms at Pins 11/12 and 15/16 300 ohms at pins 13/14 and 17/18",
+     "quantities": [
+      {
+       "value": 150,
+       "unit": "ohms"
+      },
+      {
+       "value": 300,
+       "unit": "ohms"
+      }
+     ],
+     "key": "main"
+    }
+   ]
+  },
+  {
+   "name": "Load impedances",
+   "key": "load_impedance",
+   "text": "Main: Monitor: 600 ohms balanced, 4K ohms minimum, baLanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "+8 dBm nomina 1 +24 dBm maximum (+4 dBm nomina 1 by interna] strapping)",
+   "quantities": [
+    {
+     "value": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    },
+    {
+     "value": 4,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Channel separation",
+   "key": "channel_separation",
+   "text": "Phasing: 70 dB from 30 Hz to 15 kHz. Low numbered input and output terminals are in phase",
+   "quantities": [
+    {
+     "value": 70,
+     "unit": "dB"
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 15,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "+25 volts dc, 35 MA nomina 1, 80 mAmaximum",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "volts dc"
+    },
+    {
+     "value": 35,
+     "unit": "MA"
+    }
+   ]
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "1 6 \" wide X 7\" high X 6.5\" deep. (41 MM X 178 mm X 165 mm)",
+   "quantities": [
+    {
+     "value": 6,
+     "unit": "\""
+    },
+    {
+     "value": 7,
+     "unit": "\""
+    },
+    {
+     "value": 6.5,
+     "unit": "\""
+    },
+    {
+     "value": 41,
+     "unit": "MM"
+    },
+    {
+     "value": 178,
+     "unit": "mm"
+    },
+    {
+     "value": 165,
+     "unit": "mm"
+    }
+   ]
+  }
+ ]
+}
