@@ -4,13 +4,12 @@ Ward-Beck Systems M479, 1978|11. Wiki page: [M479 on WBSps.ca](https://wardbecks
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 28 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 6 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 11 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 125 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 11 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 27 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 7 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 10 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 124 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 30 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -78,8 +77,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1dqPu6J43zNGBeDMsvZeY4CjtPV4IQksJ/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1dqPu6J43zNGBeDMsvZeY4CjtPV4IQksJ" width="240" alt="19xx - M479 - DOC - 479-02-001 - DUAL AUXILIARY MODULE SCHEMATIC.jpg"></a><br><sub>19xx - M479 - DOC - 479-02-001 - DUAL AUXILIARY MODULE SCHEMATIC · <a href="SCHEMATICS/19xx%20-%20M479%20-%20DOC%20-%20479-02-001%20-%20DUAL%20AUXILIARY%20MODULE%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/109KQyA72uuIDv0gHiqS2qh5Zof3KCBMs/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=109KQyA72uuIDv0gHiqS2qh5Zof3KCBMs" width="240" alt="2017 - M479 - DOC - 920170-01-001 - SWTCHED DIRECT MONITOR OUTPUTS DDZME.jpg"></a><br><sub>2017|50 · DOC - 920170-01-001 - SWTCHED DIRECT MONITOR OUTPUTS DDZME · <a href="SCHEMATICS/2017%20-%20M479%20-%20DOC%20-%20920170-01-001%20-%20SWTCHED%20DIRECT%20MONITOR%20OUTPUTS%20DDZME%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1982 - 479-06-001 - DUAL AUXILIARY MODULE LAYOUT - DRN GEB - ENG GEB - ISS 4.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -87,8 +84,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKY19pQkl5NlliZEE/view?resourcekey=0-jOGmoCmG0w_p3zZ8oxRmsg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKY19pQkl5NlliZEE&resourcekey=0-jOGmoCmG0w_p3zZ8oxRmsg" width="240" alt="1978 - M479 - P17 - Pin Out.jpg"></a><br><sub>1978|11 · P17 - Pin Out · <a href="PINOUTS/1978%20-%20M479%20-%20P17%20-%20Pin%20Out%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `M479 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -148,7 +143,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - M479 - DOC - 479-02-001 - DUAL AUXILIARY MODULE SCHEMATIC.kicad_sch](KICAD/19xx%20-%20M479%20-%20DOC%20-%20479-02-001%20-%20DUAL%20AUXILIARY%20MODULE%20SCHEMATIC.kicad_sch)
 - [2017 - M479 - DOC - 920170-01-001 - SWTCHED DIRECT MONITOR OUTPUTS DDZME.kicad_sch](KICAD/2017%20-%20M479%20-%20DOC%20-%20920170-01-001%20-%20SWTCHED%20DIRECT%20MONITOR%20OUTPUTS%20DDZME.kicad_sch)
 - [M479.kicad_sym](KICAD/M479.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
