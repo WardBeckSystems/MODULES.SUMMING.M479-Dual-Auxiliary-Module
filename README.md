@@ -1,6 +1,6 @@
 # M479 Dual Auxiliary Module · Summing
 
-Ward-Beck Systems M479, 1978|11. Wiki page: [M479 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M479.html)
+Ward-Beck Systems M479, 1978|11. Wiki page: [M479 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M479-Dual-Auxiliary-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

@@ -1,5 +1,5 @@
 # 1978 - M479 - Dual Auxiliary Module (2).pdf
-Wiki page: [M479](../../../../PAGES/M479.md)
+Wiki page: [M479](../)
 
 
 - **Year:** 1978 (found in this file: "AUG . 19 78")

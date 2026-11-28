@@ -1,5 +1,5 @@
 # 1978 - M479 - 479-04-003 - DUAL AUXILIARY MODULE FRONT PANEL.jpg
-Wiki page: [M479](../../../../PAGES/M479.md)
+Wiki page: [M479](../)
 
 
 - **Year:** 1978 (module estimate (manual_issue))

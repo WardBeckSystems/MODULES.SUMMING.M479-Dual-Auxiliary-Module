@@ -1,5 +1,5 @@
 # 1978 - M479 - 479-01-001 - DUAL AUXILIARY MODULE FUNCTIONAL DIAGRAM.jpg
-Wiki page: [M479](../../../../PAGES/M479.md)
+Wiki page: [M479](../)
 
 
 - **Year:** 1978 (module estimate (manual_issue))

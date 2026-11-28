@@ -1,5 +1,5 @@
 # 1982 - 479-06-001 - DUAL AUXILIARY MODULE LAYOUT - DRN GEB - ENG GEB - ISS 4.jpg
-Wiki page: [M479](../../../../PAGES/M479.md)
+Wiki page: [M479](../)
 
 
 - **Year:** 1982 (title block date)
